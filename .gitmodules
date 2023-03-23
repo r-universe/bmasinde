@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "flying"]
+	path = flying
+	url = https://github.com/cran/flying
+	shallow = true
+	registered = true
 [submodule "FlyingR"]
 	path = FlyingR
 	url = https://github.com/bmasinde/flyingr

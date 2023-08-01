@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "flying"]
-	path = flying
-	url = https://github.com/cran/flying
 [submodule "FlyingR"]
 	path = FlyingR
 	url = https://github.com/bmasinde/flyingr
+[submodule "flying"]
+	path = flying
+	url = https://github.com/cran/flying
